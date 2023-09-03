@@ -1,0 +1,13 @@
+{
+  "name": "katas",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "author": "lerejoc@gmail.com"
+}
